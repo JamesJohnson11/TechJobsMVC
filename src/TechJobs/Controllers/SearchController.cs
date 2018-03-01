@@ -13,6 +13,8 @@ namespace TechJobs.Controllers
             return View();
         }
 
+        
+
         // TODO #1 - Create a Results action method to process 
         // search request and display results
 
